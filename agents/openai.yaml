@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon AU A+ Content"
+  short_description: "Create reusable Amazon AU A+ content assets"
+  default_prompt: "Use $amazon-au-a-plus-content to create desktop and mobile Amazon Australia A+ Content from product photos and product details."
